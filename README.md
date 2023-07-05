@@ -1,2 +1,2 @@
-# Webs_crapping
+# Webs_scrapping
 scrapping BTC net hashrate from bitinfocharts.com 
